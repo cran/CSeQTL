@@ -19,7 +19,6 @@
 #' @importFrom smarter smart_names smart_df smart_table
 #'	smart_progress name_change smart_rmcols calc_JK 
 #'	smart_mkdir
-#' @importFrom GenomicFeatures makeTxDbFromGFF exonsBy
 #' @importFrom R.utils gzip
 #' @importFrom Rcpp sourceCpp
 #' @importFrom methods is
